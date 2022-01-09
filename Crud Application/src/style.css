@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+
+.headDiv{
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+}
+
+.footerDiv{
+  display: flex;
+  flex-direction: row;
+}
+
+.middleDiv{
+  display: flex;
+  flex-direction: row;
+  background-color: blueviolet;
+}

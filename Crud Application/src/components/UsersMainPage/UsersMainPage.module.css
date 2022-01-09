@@ -1,0 +1,10 @@
+.navbar {
+  background-color: pink;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.dashboard {
+  color: yellow;
+  text-shadow: 1px 1px 2px red, 0 0 25px yellow, 0 0 5px yellow;
+  font-weight: bold;
+}
